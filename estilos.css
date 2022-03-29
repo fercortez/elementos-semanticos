@@ -1,0 +1,49 @@
+
+body {
+      background-color: bisque;
+
+}
+
+
+/*
+ANATOMIA DEL CSS
+
+selector {
+    propiedad: valor;
+    propiedad: valor;
+*/
+
+/*selectores por etiqueta HTML*/
+ h1 {
+     color: brown;
+ }
+
+    h2 {
+        color: chocolate;
+    }
+   
+    h3 {
+        color: chocolate;
+    }
+   
+    p {
+        color: crimson;
+        background-color: gold;
+    }
+
+    a {
+        color: blue;
+    }
+
+    strong {
+        color: crimson;
+    }
+
+    spam {
+        color: coral;
+    }
+   
+    /*selector id se identifica siempre con el # */
+
+
+
