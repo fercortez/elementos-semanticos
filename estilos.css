@@ -42,6 +42,17 @@ selector {
     spam {
         color: coral;
     }
+    table {
+        background-color:green;
+        width: 100%;
+    }
+    
+    th {
+        background-color:gold
+    }
+    td {
+        background-color: gold;
+    }
    
     /*selector id se identifica siempre con el # */
 
